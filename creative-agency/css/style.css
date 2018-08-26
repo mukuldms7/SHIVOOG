@@ -834,7 +834,7 @@ header {
     margin: 15px 0px;
 }
 .feature i {
-    float: left;
+    float: inherit;
     padding: 5px;
     border-radius: 50%;
     color: #B22222;
